@@ -1,0 +1,23 @@
+body{
+	width: 1260px;
+
+	margin: 0px auto;
+}
+.bola {
+	position: absolute;
+	top: 30px;
+	width: 250px;
+	height: 250px;
+	line-height: 250px;
+	font-size: 50x;
+	border-radius: 150px;
+	text-align: center;
+	color: wheat;
+	font-size: 20px;
+	background: linear-gradient(330deg, blue 30%,  pink 100%);
+	transition: all 0.5s ease-out;
+	float: left;
+	margin: 20px;
+
+	
+}
